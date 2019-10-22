@@ -1,5 +1,5 @@
 import java.util.*;
-public class Analy {
+public class tic_tac_toe{
     public static void main(String[] args) {
         int player, computer;
         int rock = 1, paper = 2, sc = 0;
